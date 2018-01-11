@@ -1,3 +1,5 @@
-# hello-world
+# hello world
+
+# welcome to China！
  
-this is my home:China,I have a big yellow dog.
+I have a yellow big dog!
